@@ -1,0 +1,9 @@
+<matrices>
+    <matriz nombre="Matriz1" n="3" m="3">
+        <dato x="1" y="1">1</dato>
+        <dato x="1" y="2">2</dato>
+        <dato x="2" y="1">3</dato>
+        <dato x="2" y="2">4</dato>
+        <dato x="3" y="3">5</dato>
+    </matriz>
+</matrices>
