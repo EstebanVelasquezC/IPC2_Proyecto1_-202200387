@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<matrices>
+  <matriz nombre="Ejemplo" n="4" m="4" g="3">
+    <dato x="1" y="1">2</dato>
+    <dato x="1" y="2">3</dato>
+    <dato x="1" y="4">4</dato>
+    <dato x="2" y="3">9</dato>
+    <dato x="2" y="4">4</dato>
+    <dato x="3" y="1">1</dato>
+    <dato x="3" y="3">1</dato>
+    <dato x="3" y="4">5</dato>
+    <frecuencia g="1101">1</frecuencia>
+    <frecuencia g="0011">2</frecuencia>
+    <frecuencia g="1011">1</frecuencia>
+  </matriz>
+  <matriz nombre="IPC2" n="3" m="2" g="2">
+    <dato x="1" y="1">4</dato>
+    <dato x="1" y="2">6</dato>
+    <dato x="2" y="2">10</dato>
+    <frecuencia g="11">1</frecuencia>
+    <frecuencia g="01">2</frecuencia>
+  </matriz>
+  <matriz nombre="prueba" n="4" m="5" g="2">
+    <dato x="1" y="3">8</dato>
+    <dato x="1" y="4">5</dato>
+    <dato x="1" y="5">4</dato>
+    <dato x="2" y="1">4</dato>
+    <dato x="2" y="3">4</dato>
+    <dato x="2" y="4">9</dato>
+    <frecuencia g="00111">2</frecuencia>
+    <frecuencia g="10110">2</frecuencia>
+  </matriz>
+</matrices>
